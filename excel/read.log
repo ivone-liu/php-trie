@@ -1,0 +1,23 @@
+Starting ...2020-04-09 08:01:03
+Array
+(
+    [status] => success
+    [data] => Array
+        (
+            [new_goods] => 13539
+            [origin_goods] => 8568
+        )
+
+    [time] => 1586419264
+)
+Array
+(
+    [status] => success
+    [data] => Array
+        (
+            [new_goods] => 13540
+            [origin_goods] => 19000
+        )
+
+    [time] => 1586419264
+)
